@@ -1,0 +1,13 @@
+Para borrar commit:
+
+  git reset --soft (borra el commit pero no el cambio que se hizo antes del commit)
+  git reset --hard (borra el commit y los cambios que se hicieron, es el más peligroso)
+
+Para viajar a algun commit:
+  
+  git checkout [commit que sea]
+  git checkout master [o rama que sea] (vuelve al último commit)
+
+Para ayudas:
+ 
+  git --help [comando]	
