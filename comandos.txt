@@ -3,11 +3,18 @@ Para borrar commit:
   git reset --soft (borra el commit pero no el cambio que se hizo antes del commit)
   git reset --hard (borra el commit y los cambios que se hicieron, es el más peligroso)
 
-Para viajar a algun commit:
+
+Para viajar a algun commit y movernos entre ramas:
   
-  git checkout [commit que sea]
+  git checkout [commit que sea o rama que sea]
   git checkout master [o rama que sea] (vuelve al último commit)
+
+Para ramas:
+  
+  git branch -d [nombre de la rama que sea] (borra una rama)
 
 Para ayudas:
  
   git --help [comando]	
+  
+
