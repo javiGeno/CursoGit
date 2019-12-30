@@ -18,4 +18,4 @@ Para ayudas:
   git --help [comando]	
   
 
-algo que borraremos en master 
+
