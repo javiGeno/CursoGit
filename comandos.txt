@@ -18,4 +18,34 @@ Para ayudas:
   git --help [comando]	
   
 
+---------------------------------------Git hub--------------------------------------
+
+Conecta el repositorio local con el remoto en gitHub:
+  
+  git remote add origin 
+  git remote -v (ver la conexión)
+  git remote remove origin (desconecta los repositorios)
+
+
+Para subir cambios a la nube
+  
+  git push origin [la rama que sea]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
