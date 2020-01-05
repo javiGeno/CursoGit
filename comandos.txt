@@ -19,6 +19,11 @@ Para ayudas:
 
 ------------------------Trabajo en equipo-------------------
 
+   lskdjhslkjh
+  s,DN,.
+
+
+
 ---------------------------------------Git hub--------------------------------------
 
 Conecta el repositorio local con el remoto en gitHub:
