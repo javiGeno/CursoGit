@@ -19,8 +19,10 @@ Para ayudas:
 
 ------------------------Trabajo en equipo-------------------
 
+
   git fetch origin (traemos los cambios del repositorio remoto a la rama oculta local)
   git merge origin/master (unimos con la rama que sea los cambios que estan en la rama oculta)
+
 
 ---------------------------------------Git hub--------------------------------------
 
