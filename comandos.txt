@@ -16,7 +16,8 @@ Para ramas:
 Para ayudas:
  
   git --help [comando]	
-  
+
+------------------------Trabajo en equipo-------------------
 
 ---------------------------------------Git hub--------------------------------------
 
@@ -27,15 +28,19 @@ Conecta el repositorio local con el remoto en gitHub:
   git remote remove origin (desconecta los repositorios)
 
 
-Para subir cambios a la nube
+Para subir cambios a la nube:
   
   git push origin [la rama que sea]
 
 
+Tags:(etiquetar un commit como version definitva, si no se especifica un commit, 
+      se asigna al último)
 
-
-
-
+  git tag -a v1.0 -m "mensaje" (anotadas-recomendadas)
+  git tag v1.0 (ligeras)
+  git tag -a v1.0 -m "mensaje" numero del commit especificado  
+  git push origin v1.0 (para subir etiquetas)
+  git push origin --tags (sube todas las etiquetas)
 
 
 
